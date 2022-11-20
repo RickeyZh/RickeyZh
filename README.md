@@ -5,5 +5,6 @@ I am **Rickey Zheng**,
 a grade 11 student
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=RickeyZh&count_private=true)](https://github-readme-stats.vercel.app/api?username=RickeyZh&count_private=true)
+
 [![DMOJ Badge](http://onlogn.ca/badges/dmoj/rickeyz)](https://dmoj.ca/user/RickeyZ)
 [![Codeforces Badge](http://onlogn.ca/badges/codeforces/rickeyz)](https://codeforces.com/profile/RickeyZ)
