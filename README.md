@@ -3,12 +3,13 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RickeyZh.RickeyZh)](https://visitor-badge.laobi.icu/badge?page_id=RickeyZh.RickeyZh)
 
 I am **Rickey Zheng**,
-a grade 11 student
+a passionate high schooler captivated by the intricacies of computer science
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=RickeyZh&theme=city_lights&count_private=true)](https://github-readme-stats.vercel.app/api?username=RickeyZh&count_private=true)
 
-[![DMOJ Badge](http://onlogn.ca/badges/dmoj/rickeyz)](https://dmoj.ca/user/RickeyZ)
-[![Codeforces Badge](http://onlogn.ca/badges/codeforces/rickeyz)](https://codeforces.com/profile/RickeyZ)
+[![DMOJ Badge](http://mosesxu.ca/judge-badge/dmoj/rickeyz)](https://dmoj.ca/user/RickeyZ)
+[![Codeforces Badge](http://mosesxu.ca/judge-badge/codeforces/rickeyz)](https://codeforces.com/profile/RickeyZ)
+[![AtCoder Badge](http://mosesxu.ca/judge-badge/atcoder/rickeyz)](https://atcoder.jp/users/RickeyZ)
 
 ### Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rickey.zhengg@gmail.com)
