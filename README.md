@@ -3,7 +3,7 @@
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RickeyZh.RickeyZh)](https://visitor-badge.laobi.icu/badge?page_id=RickeyZh.RickeyZh)
 
 I am **Rickey Zheng**,
-a passionate high schooler captivated by the intricacies of computer science
+a passionate first-year student captivated by the intricacies of computer science
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=RickeyZh&theme=city_lights&count_private=true)](https://github-readme-stats.vercel.app/api?username=RickeyZh&count_private=true)
 
